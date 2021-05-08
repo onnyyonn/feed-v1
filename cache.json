@@ -4,6 +4,17 @@
       "href": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
       "articles": [
         {
+          "id": "https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca",
+          "author": "Published articles",
+          "description": "Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it&rsquo;s even more insidious than most vices because we don&rsquo;t even consciously acknowledge that it&rsquo;s a pleasure. &mdash; Tim Kreider",
+          "link": "https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca",
+          "publishedOn": "2021-05-08T16:16:31.000Z",
+          "wordCount": 1782,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Addiction to Outrage"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed",
           "author": "Published articles",
           "description": "An RSS reader, powered by Github Actions and hosted as Github Pages",
