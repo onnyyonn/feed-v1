@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn/feed</title>
-    <updated>2021-05-08T20:53:18.847Z</updated>
+    <updated>2021-05-08T23:10:23.236Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Replacing Jupyter Notebook with Org Mode]]></title>
+        <id>https://sqrtminusone.xyz/posts/2021-05-01-org-python/</id>
+        <link href="https://sqrtminusone.xyz/posts/2021-05-01-org-python/"/>
+        <updated>2021-05-08T22:54:54.000Z</updated>
+        <summary type="html"><![CDATA[As much as I like VS Code's notebook interface, I am going to replace it with Org mode soon&trade;. This is a guide that's going to help.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edward Snowden at Private Investment Club Zoom Meeting]]></title>
+        <id>https://youtu.be/Hv3UC4lz3oQ</id>
+        <link href="https://youtu.be/Hv3UC4lz3oQ"/>
+        <updated>2021-05-08T21:58:43.000Z</updated>
+        <summary type="html"><![CDATA[If you're getting exposed, might as well get exposed by Snowden himself.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Zotero to retrieve PDF from Sci-Hub automatically]]></title>
+        <id>https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7</id>
+        <link href="https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7"/>
+        <updated>2021-05-08T20:58:41.000Z</updated>
+        <summary type="html"><![CDATA[This is going to save a few extra clicks.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Addiction to Outrage]]></title>
         <id>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</id>
