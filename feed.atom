@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn/feed</title>
-    <updated>2021-05-09T01:30:33.882Z</updated>
+    <updated>2021-05-09T16:59:18.917Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub - akavel/up]]></title>
+        <id>https://github.com/akavel/up</id>
+        <link href="https://github.com/akavel/up"/>
+        <updated>2021-05-09T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[A cli tool for writing pipes with instant live preview]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beeper - All Your Chats In One App]]></title>
+        <id>https://www.beeper.com</id>
+        <link href="https://www.beeper.com"/>
+        <updated>2021-05-09T10:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replacing Jupyter Notebook with Org Mode]]></title>
         <id>https://sqrtminusone.xyz/posts/2021-05-01-org-python/</id>

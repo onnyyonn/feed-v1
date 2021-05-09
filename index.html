@@ -27,7 +27,20 @@
     --base0C: #000000;
     --base0D: #b48ead; /* nord16 hovered link*/
     --base0E: #000000;
-    --base0F: #000000;
+    --base0F: #eceff4; /* nord07 custom header*/
+  }
+
+  header-container {
+    width: 90%;
+    max-width: 1200px;
+    background: var(--base00);
+    margin: 0 auto;
+  }
+
+  h1 {
+  	font-size: 24px;
+  	color: var(--base0F);
+  	text-align: left;
   }
 
   .day-container {
@@ -68,8 +81,43 @@
 
   </head>
   <body>
-    <!-- %after-body-begin.html% -->
+    <section clss "header-container">
+  <div class="h1">
+    <h1>onnyyonn//feed</h1>
+  </div>
+</section> 
+
     
+    <section class="day-container">
+    <h2>2021-05-09</h2>
+    
+        <h3>Published articles</h3>
+        <section class="articles-per-source">
+          
+          <article>
+            <details>
+              <summary>GitHub - akavel/up</summary>
+              <div class="details-content">
+                <p>A cli tool for writing pipes with instant live preview</p>
+                <a href="https&#58;&#47;&#47;github.com&#47;akavel&#47;up">Read · 6 min</a>
+              </div>
+            </details>
+          </article>
+
+          <article>
+            <details>
+              <summary>Beeper - All Your Chats In One App</summary>
+              <div class="details-content">
+                <p>Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.</p>
+                <a href="https&#58;&#47;&#47;www.beeper.com">Read · 3 min</a>
+              </div>
+            </details>
+          </article>
+        </section>
+        
+    </section>
+    
+
     <section class="day-container">
     <h2>2021-05-08</h2>
     
@@ -130,7 +178,7 @@
     </section>
     
     <footer>
-      <time id="build-timestamp" datetime="2021-05-09T01:30:33.881Z">2021-05-09T01:30:33.881Z</time>
+      <time id="build-timestamp" datetime="2021-05-09T16:59:18.917Z">2021-05-09T16:59:18.917Z</time>
       <span><a href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.5.0</a></span>
     </footer>
     

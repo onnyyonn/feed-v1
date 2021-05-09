@@ -4,6 +4,28 @@
       "href": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
       "articles": [
         {
+          "id": "https://github.com/akavel/up",
+          "author": "Published articles",
+          "description": "A cli tool for writing pipes with instant live preview",
+          "link": "https://github.com/akavel/up",
+          "publishedOn": "2021-05-09T11:00:01.000Z",
+          "wordCount": 1673,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "GitHub - akavel/up"
+        },
+        {
+          "id": "https://www.beeper.com",
+          "author": "Published articles",
+          "description": "Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.",
+          "link": "https://www.beeper.com",
+          "publishedOn": "2021-05-09T10:57:02.000Z",
+          "wordCount": 931,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Beeper - All Your Chats In One App"
+        },
+        {
           "id": "https://sqrtminusone.xyz/posts/2021-05-01-org-python/",
           "author": "Published articles",
           "description": "As much as I like VS Code's notebook interface, I am going to replace it with Org mode soon&trade;. This is a guide that's going to help.",
