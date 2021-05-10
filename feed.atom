@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-09T21:29:35.780Z</updated>
+    <updated>2021-05-10T00:22:57.409Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -22,6 +22,19 @@
         <link href="https://www.beeper.com"/>
         <updated>2021-05-09T10:57:02.000Z</updated>
         <summary type="html"><![CDATA[Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnuplot is not GNU]]></title>
+        <id>http://www.gnuplot.info/faq/faq.html#x1-70001.2</id>
+        <link href="http://www.gnuplot.info/faq/faq.html#x1-70001.2"/>
+        <updated>2021-05-09T09:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.gnuplot.info/faq/faq.html#x1-70001.2
+Comments URL: https://news.ycombinator.com/item?id=27094415
+Points: 212
+# Comments: 191]]></summary>
         <author>
             <name>Published articles</name>
         </author>

@@ -26,6 +26,17 @@
           "title": "Beeper - All Your Chats In One App"
         },
         {
+          "id": "http://www.gnuplot.info/faq/faq.html#x1-70001.2",
+          "author": "Published articles",
+          "description": "Article URL: http://www.gnuplot.info/faq/faq.html#x1-70001.2\nComments URL: https://news.ycombinator.com/item?id=27094415\nPoints: 212\n# Comments: 191",
+          "link": "http://www.gnuplot.info/faq/faq.html#x1-70001.2",
+          "publishedOn": "2021-05-09T09:01:04.000Z",
+          "wordCount": 7312,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Gnuplot is not GNU"
+        },
+        {
           "id": "https://sqrtminusone.xyz/posts/2021-05-01-org-python/",
           "author": "Published articles",
           "description": "As much as I like VS Code's notebook interface, I am going to replace it with Org mode soon&trade;. This is a guide that's going to help.",
