@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-10T01:57:56.420Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-10T08:08:50.464Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
     <entry>
@@ -33,8 +33,8 @@
         <updated>2021-05-09T09:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.gnuplot.info/faq/faq.html#x1-70001.2
 Comments URL: https://news.ycombinator.com/item?id=27094415
-Points: 212
-# Comments: 191]]></summary>
+Points: 224
+# Comments: 197]]></summary>
         <author>
             <name>Published articles</name>
         </author>
