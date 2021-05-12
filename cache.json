@@ -4,6 +4,39 @@
       "href": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
       "articles": [
         {
+          "id": "https://github.com/airladon/FigureOne",
+          "author": "Published articles",
+          "description": "A JavaScript library for creating interactive/animated diagram/equation/plot",
+          "link": "https://github.com/airladon/FigureOne",
+          "publishedOn": "2021-05-11T22:09:04.000Z",
+          "wordCount": 1072,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Github - airladon/FigureOne"
+        },
+        {
+          "id": "https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA",
+          "author": "Published articles",
+          "description": "I have recently discovered this channel. Reminds me of 3Blue1Brown.",
+          "link": "https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA",
+          "publishedOn": "2021-05-11T18:25:46.000Z",
+          "wordCount": 14,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "YouTube - ScienceClic English"
+        },
+        {
+          "id": "http://atlasengineering.io",
+          "author": "Published articles",
+          "description": "Article URL: http://atlasengineering.io\nComments URL: https://news.ycombinator.com/item?id=27112529\nPoints: 334\n# Comments: 127",
+          "link": "http://atlasengineering.io",
+          "publishedOn": "2021-05-11T00:03:32.000Z",
+          "wordCount": 461,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Atlas, a hopefully better engineering IDE"
+        },
+        {
           "id": "https://github.com/AnthonyDiGirolamo/dot-all",
           "author": "Published articles",
           "description": "I need to steal a lot of stuff from this dotfile repo, especially tangleawk.",

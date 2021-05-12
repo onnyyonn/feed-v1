@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-11T16:16:56.641Z</updated>
+    <updated>2021-05-12T00:23:39.950Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Github - airladon/FigureOne]]></title>
+        <id>https://github.com/airladon/FigureOne</id>
+        <link href="https://github.com/airladon/FigureOne"/>
+        <updated>2021-05-11T22:09:04.000Z</updated>
+        <summary type="html"><![CDATA[A JavaScript library for creating interactive/animated diagram/equation/plot]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube - ScienceClic English]]></title>
+        <id>https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA</id>
+        <link href="https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA"/>
+        <updated>2021-05-11T18:25:46.000Z</updated>
+        <summary type="html"><![CDATA[I have recently discovered this channel. Reminds me of 3Blue1Brown.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas, a hopefully better engineering IDE]]></title>
+        <id>http://atlasengineering.io</id>
+        <link href="http://atlasengineering.io"/>
+        <updated>2021-05-11T00:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://atlasengineering.io
+Comments URL: https://news.ycombinator.com/item?id=27112529
+Points: 334
+# Comments: 127]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Github - AnthonyDiGirolamo/dot-all]]></title>
         <id>https://github.com/AnthonyDiGirolamo/dot-all</id>
