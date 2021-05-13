@@ -4,6 +4,17 @@
       "href": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
       "articles": [
         {
+          "id": "https://blog.lambda.cx/posts/org-agenda-new-tab/",
+          "author": "Published articles",
+          "description": "This is a neat trick and can be applied to all sorts of org files other than agenda.",
+          "link": "https://blog.lambda.cx/posts/org-agenda-new-tab/",
+          "publishedOn": "2021-05-12T20:08:43.000Z",
+          "wordCount": 692,
+          "sourceHref": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
+          "sourceTitle": "Published articles",
+          "title": "Org Agenda As New Tab Page"
+        },
+        {
           "id": "https://github.com/airladon/FigureOne",
           "author": "Published articles",
           "description": "A JavaScript library for creating interactive/animated diagram/equation/plot",
