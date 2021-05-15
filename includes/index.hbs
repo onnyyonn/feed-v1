@@ -9,45 +9,49 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
-  <!-- %before-head-end.html% -->
 </head>
 
 <body>
-  <!-- %after-body-begin.html% -->
-  <header>
-    <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
-    </dl>
-  </header>
+  <link href="https://cdn.lineicons.com/2.0/LineIcons.css" rel="stylesheet">
+  <section class="header-container">
+    <div style="display:flex; justify-content:flex-end; align-items:flex-end;">
+      <div style="flex-grow:1;"><div class="header-title"><span style="color:#b48ead;">onnyyonn</span>//feed</div></div>
+      <div class=icons><a class="lni lni-32 lni-github" href="https://github.com/onnyyonn/feed" target="_blank" rel="noopener noreferrer"></a></div>
+    </div>
+  </section>
 
 
   <ul>
   {{#each dates}}
     <li>
       <section class="day-container">
-      <h1>{{isoPublishDate}}</h1>
+        <div class="date">{{isoPublishDate}}</div>
 
-      {{#each articles}}
-      <article>
-        <details>
-          <Summary>{{title}}</Summary>
-          <div class="details-content">
-            <p>{{description}}</p>
-            <a href={{link}}>Read . {{readingTimeInMin}} min</a>
-          </div
-        </details>
-      </article>
-      {{/each}}
+        {{#each articles}}
+        <article>
+          <details>
+            <Summary>{{title}}</Summary>
+            <div class="details-content">
+              <p>{{description}}</p>
+              <div class="button">
+                <a href={{link}}>Read . {{readingTimeInMin}} min</a>
+              </div>
+            </div
+          </details>
+        </article>
+        {{/each}}
 
       </section>
     </li>
   {{/each}}
   </ul>
 
-  <!-- %before-body-end.html% -->
+  <script src="index.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify-element.min.js"></script>
+  <script>document.querySelectorAll(".articles-per-source article .details-content").forEach($ => linkifyElement($))</script>
+
 </body>
 
 </html>
