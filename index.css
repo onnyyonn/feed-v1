@@ -40,12 +40,12 @@ body {
   font-weight: bold;
   color: var(--nord06);
   margin: 0;
-  padding-bottom: 28px;
+  padding-bottom: 14px;
 }
 
 .icons {
   color: var(--nord06);
-  padding-bottom: 28px;
+  padding-bottom: 16px;
 }
   
 .icons a {
