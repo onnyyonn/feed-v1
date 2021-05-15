@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -28,20 +27,17 @@
   <ul>
   {{#each dates}}
     <li>
-      <section>
+      <section class="day-container">
       <h1>{{isoPublishDate}}</h1>
 
       {{#each articles}}
       <article>
-          <h2><a href={{link}}>{{title}}</a></h2>
-          <div>
-            <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-            <span>Date: <time>{{isoPublishDate}}</time></span> |
-            <span>Timestamp: <time>{{publishedOn}}</time></span> |
-            <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-            <span>Word count: <time>{{wordCount}}</time></span>
-          </div>
-          <p>{{description}}</p>
+        <details>
+          <Summary>{{title}}</Summary>
+          <div class="details-content">
+            <p>{{description}}</p>
+            <a href={{link}}>Read . {{readingTimeInMin}} min</a>
+          </div
         </details>
       </article>
       {{/each}}
