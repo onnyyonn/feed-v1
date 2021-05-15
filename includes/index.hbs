@@ -20,29 +20,26 @@
     </div>
   </section>
 
-
-  <ul>
   {{#each dates}}
-    <section class="day-container">
-      <div class="date">{{isoPublishDate}}</div>
+  <section class="day-container">
+    <div class="date">{{isoPublishDate}}</div>
 
-      {{#each articles}}
-      <article>
-        <details>
-          <Summary>{{title}}</Summary>
-          <div class="details-content">
-            <p>{{description}}</p>
-            <div class="button">
-              <a href={{link}}>Read · {{readingTimeInMin}} min</a>
-            </div>
-          </div
-        </details>
-      </article>
-      {{/each}}
+    {{#each articles}}
+    <article>
+      <details>
+        <Summary>{{title}}</Summary>
+        <div class="details-content">
+          <p>{{description}}</p>
+          <div class="button">
+            <a href={{link}}>Read · {{readingTimeInMin}} min</a>
+          </div>
+        </div
+      </details>
+    </article>
+    {{/each}}
 
-    </section>
+  </section>
   {{/each}}
-  </ul>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify.min.js"></script>
