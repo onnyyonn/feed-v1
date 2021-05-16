@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://jsomers.net/i-should-have-loved-biology/",
+          "author": null,
+          "description": "A reminder that there is no dull subject, only uninspired teaching.",
+          "link": "https://jsomers.net/i-should-have-loved-biology/",
+          "publishedOn": "2021-05-16T02:19:13.000Z",
+          "wordCount": 3871,
+          "title": "I should have loved biology"
+        },
+        {
           "id": "https://www.stitcher.com/show/hidden-brain/episode/the-fake-bride-83848368",
           "author": null,
           "description": "A surreal story of a fake wedding.",
@@ -170,5 +179,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-16T01:43:46.886Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-16T17:16:50.712Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I should have loved biology]]></title>
+        <id>https://jsomers.net/i-should-have-loved-biology/</id>
+        <link href="https://jsomers.net/i-should-have-loved-biology/"/>
+        <updated>2021-05-16T02:19:13.000Z</updated>
+        <summary type="html"><![CDATA[A reminder that there is no dull subject, only uninspired teaching.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hidden Brain - The Fake Bride]]></title>
         <id>https://www.stitcher.com/show/hidden-brain/episode/the-fake-bride-83848368</id>
