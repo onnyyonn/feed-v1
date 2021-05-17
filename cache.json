@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://www.srijn.net/running-multiple-emacs-daemons/",
+          "author": null,
+          "description": "Using this and Chemacs, it'll probably be possible to run multiple specialised emacs configs.",
+          "link": "https://www.srijn.net/running-multiple-emacs-daemons/",
+          "publishedOn": "2021-05-16T21:03:48.000Z",
+          "wordCount": 558,
+          "title": "Running multiple emacs daemons"
+        },
+        {
           "id": "https://jsomers.net/i-should-have-loved-biology/",
           "author": null,
           "description": "A reminder that there is no dull subject, only uninspired teaching.",

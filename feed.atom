@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-16T17:16:50.712Z</updated>
+    <updated>2021-05-17T00:39:18.239Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Running multiple emacs daemons]]></title>
+        <id>https://www.srijn.net/running-multiple-emacs-daemons/</id>
+        <link href="https://www.srijn.net/running-multiple-emacs-daemons/"/>
+        <updated>2021-05-16T21:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Using this and Chemacs, it'll probably be possible to run multiple specialised emacs configs.]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I should have loved biology]]></title>
         <id>https://jsomers.net/i-should-have-loved-biology/</id>
