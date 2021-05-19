@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://metadocuments.com/",
+          "author": null,
+          "description": "A collaborative document writer with some neat features for version control.",
+          "link": "https://metadocuments.com/",
+          "publishedOn": "2021-05-19T01:52:12.000Z",
+          "wordCount": 239,
+          "title": "Meta - Document Writer"
+        },
+        {
           "id": "https://www.nature.com/articles/s41558-017-0008-6",
           "author": null,
           "description": "in light of the May 2021 cyclone in the Arabian Sea, people are wondering if this happened because of the climate change. well, here is the deal: it can't be said if the climate change is responsible for a single event. But it can be estimated if it increases the likelihood of said event. This study shows how the increasing temperature in the Arabian sea is increasing the likelihood of severe cyclones and that explains why we're seeing them almost every year now, when earlier there used to be none. https://…",
