@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://wejn.org/2021/02/urbit-good-bad-insane/",
+          "author": null,
+          "description": "<p>A not-so-kind take on Urbit</p>",
+          "link": "https://wejn.org/2021/02/urbit-good-bad-insane/",
+          "publishedOn": "2021-05-25T15:14:16.000Z",
+          "wordCount": 2573,
+          "title": "Urbit :: the good, the bad and the insane"
+        },
+        {
           "id": "https://twitter.com/ColinTheMathmo/status/1395669381024210944",
           "author": null,
           "description": "In the decimal system, a square of an integer may only end in 0, 1, 4, 5, 6, or 9, whereas twice a square may only end with 0,2,8. So if a²=2b², a must end with 0 and b must end with 5 or 0. This triggers an infinite descent that proves: no solution where a and b both are integers, which implies a/b must be irrational.",
