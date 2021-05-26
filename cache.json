@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://github.com/tlienart/Franklin.jl",
+          "author": null,
+          "description": "<p>A static site generator written in Julia</p>",
+          "link": "https://github.com/tlienart/Franklin.jl",
+          "publishedOn": "2021-05-26T06:12:12.000Z",
+          "wordCount": 1510,
+          "title": "Github - tilenart/Franklin.jl"
+        },
+        {
           "id": "https://wejn.org/2021/02/urbit-good-bad-insane/",
           "author": null,
           "description": "<p>A not-so-kind take on Urbit</p>",
@@ -224,5 +233,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }

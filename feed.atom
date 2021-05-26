@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-26T00:51:44.042Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T12:22:58.594Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Github - tilenart/Franklin.jl]]></title>
+        <id>https://github.com/tlienart/Franklin.jl</id>
+        <link href="https://github.com/tlienart/Franklin.jl"/>
+        <updated>2021-05-26T06:12:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>A static site generator written in Julia</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urbit :: the good, the bad and the insane]]></title>
         <id>https://wejn.org/2021/02/urbit-good-bad-insane/</id>
