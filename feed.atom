@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-28T12:39:47.216Z</updated>
+    <updated>2021-05-29T01:13:01.589Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub - nocodb/nocodb]]></title>
+        <id>https://github.com/nocodb/nocodb</id>
+        <link href="https://github.com/nocodb/nocodb"/>
+        <updated>2021-05-28T23:44:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>The selfhosted Airtable clone I was looking for.</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Github - tilenart/Franklin.jl]]></title>
         <id>https://github.com/tlienart/Franklin.jl</id>

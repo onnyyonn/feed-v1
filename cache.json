@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://github.com/nocodb/nocodb",
+          "author": null,
+          "description": "<p>The selfhosted Airtable clone I was looking for.</p>",
+          "link": "https://github.com/nocodb/nocodb",
+          "publishedOn": "2021-05-28T23:44:12.000Z",
+          "wordCount": 1249,
+          "title": "GitHub - nocodb/nocodb"
+        },
+        {
           "id": "https://github.com/tlienart/Franklin.jl",
           "author": null,
           "description": "<p>A static site generator written in Julia</p>",
