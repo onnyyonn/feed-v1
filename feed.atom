@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-05-30T01:20:36.322Z</updated>
+    <updated>2021-05-30T12:39:50.423Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JupyterLite – WASM-powered Jupyter running in the browser]]></title>
+        <id>https://github.com/jtpio/jupyterlite</id>
+        <link href="https://github.com/jtpio/jupyterlite"/>
+        <updated>2021-05-29T06:59:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>Article URL: https://github.com/jtpio/jupyterlite
+Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - nocodb/nocodb]]></title>
         <id>https://github.com/nocodb/nocodb</id>

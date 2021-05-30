@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://github.com/jtpio/jupyterlite",
+          "author": null,
+          "description": "<p>Article URL: https://github.com/jtpio/jupyterlite\nComments URL: https://news.ycombinator.com/item?i...</p>",
+          "link": "https://github.com/jtpio/jupyterlite",
+          "publishedOn": "2021-05-29T06:59:45.000Z",
+          "wordCount": 838,
+          "title": "JupyterLite – WASM-powered Jupyter running in the browser"
+        },
+        {
           "id": "https://github.com/nocodb/nocodb",
           "author": null,
           "description": "<p>The selfhosted Airtable clone I was looking for.</p>",
