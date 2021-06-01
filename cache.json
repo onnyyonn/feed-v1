@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://twitter.com/beesandbombs",
+          "author": null,
+          "description": "<p>Pretty math gifs</p>",
+          "link": "https://twitter.com/beesandbombs",
+          "publishedOn": "2021-06-01T02:21:53.000Z",
+          "wordCount": 196,
+          "title": "Twitter - @beesandbombs"
+        },
+        {
           "id": "https://github.com/jtpio/jupyterlite",
           "author": null,
           "description": "<p>Article URL: https://github.com/jtpio/jupyterlite\nComments URL: https://news.ycombinator.com/item?i...</p>",
@@ -251,5 +260,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

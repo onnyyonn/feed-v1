@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-01T01:50:40.413Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-01T12:55:44.689Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter - @beesandbombs]]></title>
+        <id>https://twitter.com/beesandbombs</id>
+        <link href="https://twitter.com/beesandbombs"/>
+        <updated>2021-06-01T02:21:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>Pretty math gifs</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JupyterLite – WASM-powered Jupyter running in the browser]]></title>
         <id>https://github.com/jtpio/jupyterlite</id>
