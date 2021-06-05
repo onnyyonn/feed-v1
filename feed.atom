@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-05T01:04:24.116Z</updated>
+    <updated>2021-06-05T12:40:00.080Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Costis94 - Bookcut]]></title>
+        <id>https://github.com/costis94/bookcut</id>
+        <link href="https://github.com/costis94/bookcut"/>
+        <updated>2021-06-05T05:07:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>A CLI tool for downloading ebooks. I haven't had much luck with Calibre's Libgen extensions. This ma...</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter - @beesandbombs]]></title>
         <id>https://twitter.com/beesandbombs</id>
