@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-06T12:39:57.109Z</updated>
+    <updated>2021-06-07T00:58:20.601Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -292,16 +292,6 @@ Points: 228
         <link href="https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca"/>
         <updated>2021-05-08T16:16:31.000Z</updated>
         <summary type="html"><![CDATA[Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - osmoscraft/osmosfeed]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed</id>
-        <link href="https://github.com/osmoscraft/osmosfeed"/>
-        <updated>2021-05-08T10:37:45.000Z</updated>
-        <summary type="html"><![CDATA[An RSS reader, powered by Github Actions and hosted as Github Pages]]></summary>
         <author>
             <name>Published articles</name>
         </author>

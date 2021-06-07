@@ -256,15 +256,6 @@
           "publishedOn": "2021-05-08T16:16:31.000Z",
           "wordCount": 1746,
           "title": "Addiction to Outrage"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed",
-          "author": null,
-          "description": "An RSS reader, powered by Github Actions and hosted as Github Pages",
-          "link": "https://github.com/osmoscraft/osmosfeed",
-          "publishedOn": "2021-05-08T10:37:45.000Z",
-          "wordCount": 1117,
-          "title": "GitHub - osmoscraft/osmosfeed"
         }
       ]
     }
