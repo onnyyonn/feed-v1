@@ -220,42 +220,6 @@
           "publishedOn": "2021-05-09T09:01:04.000Z",
           "wordCount": 7312,
           "title": "Gnuplot is not GNU"
-        },
-        {
-          "id": "https://sqrtminusone.xyz/posts/2021-05-01-org-python/",
-          "author": null,
-          "description": "As much as I like VS Code's notebook interface, I am going to replace it with Org mode soon™. This is a guide that's going to help.",
-          "link": "https://sqrtminusone.xyz/posts/2021-05-01-org-python/",
-          "publishedOn": "2021-05-08T22:54:54.000Z",
-          "wordCount": 3022,
-          "title": "Replacing Jupyter Notebook with Org Mode"
-        },
-        {
-          "id": "https://youtu.be/Hv3UC4lz3oQ",
-          "author": null,
-          "description": "If you're getting exposed, might as well get exposed by Snowden himself.",
-          "link": "https://youtu.be/Hv3UC4lz3oQ",
-          "publishedOn": "2021-05-08T21:58:43.000Z",
-          "wordCount": 24,
-          "title": "Edward Snowden at Private Investment Club Zoom Meeting"
-        },
-        {
-          "id": "https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7",
-          "author": null,
-          "description": "This is going to save a few extra clicks.",
-          "link": "https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7",
-          "publishedOn": "2021-05-08T20:58:41.000Z",
-          "wordCount": 696,
-          "title": "Configure Zotero to retrieve PDF from Sci-Hub automatically"
-        },
-        {
-          "id": "https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca",
-          "author": null,
-          "description": "Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider",
-          "link": "https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca",
-          "publishedOn": "2021-05-08T16:16:31.000Z",
-          "wordCount": 1746,
-          "title": "Addiction to Outrage"
         }
       ]
     }

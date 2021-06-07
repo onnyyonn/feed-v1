@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-07T00:58:20.601Z</updated>
+    <updated>2021-06-07T12:48:31.550Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -252,46 +252,6 @@ Points: 284
 Comments URL: https://news.ycombinator.com/item?id=27094415
 Points: 228
 # Comments: 199]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing Jupyter Notebook with Org Mode]]></title>
-        <id>https://sqrtminusone.xyz/posts/2021-05-01-org-python/</id>
-        <link href="https://sqrtminusone.xyz/posts/2021-05-01-org-python/"/>
-        <updated>2021-05-08T22:54:54.000Z</updated>
-        <summary type="html"><![CDATA[As much as I like VS Code's notebook interface, I am going to replace it with Org mode soon™. This is a guide that's going to help.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edward Snowden at Private Investment Club Zoom Meeting]]></title>
-        <id>https://youtu.be/Hv3UC4lz3oQ</id>
-        <link href="https://youtu.be/Hv3UC4lz3oQ"/>
-        <updated>2021-05-08T21:58:43.000Z</updated>
-        <summary type="html"><![CDATA[If you're getting exposed, might as well get exposed by Snowden himself.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configure Zotero to retrieve PDF from Sci-Hub automatically]]></title>
-        <id>https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7</id>
-        <link href="https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7"/>
-        <updated>2021-05-08T20:58:41.000Z</updated>
-        <summary type="html"><![CDATA[This is going to save a few extra clicks.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addiction to Outrage]]></title>
-        <id>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</id>
-        <link href="https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca"/>
-        <updated>2021-05-08T16:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider]]></summary>
         <author>
             <name>Published articles</name>
         </author>
