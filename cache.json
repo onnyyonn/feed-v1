@@ -193,33 +193,6 @@
           "publishedOn": "2021-05-10T06:16:31.000Z",
           "wordCount": 739,
           "title": "The word “decide” has deadly origins"
-        },
-        {
-          "id": "https://github.com/akavel/up",
-          "author": null,
-          "description": "A cli tool for writing pipes with instant live preview",
-          "link": "https://github.com/akavel/up",
-          "publishedOn": "2021-05-09T11:00:01.000Z",
-          "wordCount": 1683,
-          "title": "GitHub - akavel/up"
-        },
-        {
-          "id": "https://www.beeper.com",
-          "author": null,
-          "description": "Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.",
-          "link": "https://www.beeper.com",
-          "publishedOn": "2021-05-09T10:57:02.000Z",
-          "wordCount": 931,
-          "title": "Beeper - All Your Chats In One App"
-        },
-        {
-          "id": "http://www.gnuplot.info/faq/faq.html#x1-70001.2",
-          "author": null,
-          "description": "Article URL: http://www.gnuplot.info/faq/faq.html#x1-70001.2\nComments URL: https://news.ycombinator.com/item?id=27094415\nPoints: 228\n# Comments: 199",
-          "link": "http://www.gnuplot.info/faq/faq.html#x1-70001.2",
-          "publishedOn": "2021-05-09T09:01:04.000Z",
-          "wordCount": 7312,
-          "title": "Gnuplot is not GNU"
         }
       ]
     }
