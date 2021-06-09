@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
+          "author": null,
+          "description": "<p>\"And herein lies my biggest gripe with social media. There is no room for nuance, there is no room f...</p>",
+          "link": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
+          "publishedOn": "2021-06-09T01:01:42.000Z",
+          "wordCount": 1411,
+          "title": "Don't let Social Media Think for You"
+        },
+        {
           "id": "https://github.com/costis94/bookcut",
           "author": null,
           "description": "<p>A CLI tool for downloading ebooks. I haven't had much luck with Calibre's Libgen extensions. This ma...</p>",
@@ -157,33 +166,6 @@
           "publishedOn": "2021-05-11T18:25:46.000Z",
           "wordCount": 14,
           "title": "YouTube - ScienceClic English"
-        },
-        {
-          "id": "http://atlasengineering.io",
-          "author": null,
-          "description": "Article URL: http://atlasengineering.io\nComments URL: https://news.ycombinator.com/item?id=27112529\nPoints: 334\n# Comments: 127",
-          "link": "http://atlasengineering.io",
-          "publishedOn": "2021-05-11T00:03:32.000Z",
-          "wordCount": 461,
-          "title": "Atlas, a hopefully better engineering IDE"
-        },
-        {
-          "id": "https://github.com/AnthonyDiGirolamo/dot-all",
-          "author": null,
-          "description": "I need to steal a lot of stuff from this dotfile repo, especially tangleawk.",
-          "link": "https://github.com/AnthonyDiGirolamo/dot-all",
-          "publishedOn": "2021-05-10T18:07:15.000Z",
-          "wordCount": 775,
-          "title": "Github - AnthonyDiGirolamo/dot-all"
-        },
-        {
-          "id": "https://gimletmedia.com/shows/reply-all/xjhe54",
-          "author": null,
-          "description": "As I was going through old Reply All episodes, I found one where a man breaks the internet by pulling out his npm package. And I found it on the same day my own site breaks (kinda) because of an npm package update. Talk about serendipity!",
-          "link": "https://gimletmedia.com/shows/reply-all/xjhe54",
-          "publishedOn": "2021-05-10T17:45:10.000Z",
-          "wordCount": 11390,
-          "title": "Reply All - Disappeared"
         }
       ]
     }

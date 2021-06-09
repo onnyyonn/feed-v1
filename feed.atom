@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-09T00:38:59.265Z</updated>
+    <updated>2021-06-09T12:16:27.724Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't let Social Media Think for You]]></title>
+        <id>https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you</id>
+        <link href="https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you"/>
+        <updated>2021-06-09T01:01:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>"And herein lies my biggest gripe with social media. There is no room for nuance, there is no room f...</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Costis94 - Bookcut]]></title>
         <id>https://github.com/costis94/bookcut</id>
@@ -173,39 +183,6 @@ Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <link href="https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA"/>
         <updated>2021-05-11T18:25:46.000Z</updated>
         <summary type="html"><![CDATA[I have recently discovered this channel. Reminds me of 3Blue1Brown.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlas, a hopefully better engineering IDE]]></title>
-        <id>http://atlasengineering.io</id>
-        <link href="http://atlasengineering.io"/>
-        <updated>2021-05-11T00:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://atlasengineering.io
-Comments URL: https://news.ycombinator.com/item?id=27112529
-Points: 334
-# Comments: 127]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github - AnthonyDiGirolamo/dot-all]]></title>
-        <id>https://github.com/AnthonyDiGirolamo/dot-all</id>
-        <link href="https://github.com/AnthonyDiGirolamo/dot-all"/>
-        <updated>2021-05-10T18:07:15.000Z</updated>
-        <summary type="html"><![CDATA[I need to steal a lot of stuff from this dotfile repo, especially tangleawk.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reply All - Disappeared]]></title>
-        <id>https://gimletmedia.com/shows/reply-all/xjhe54</id>
-        <link href="https://gimletmedia.com/shows/reply-all/xjhe54"/>
-        <updated>2021-05-10T17:45:10.000Z</updated>
-        <summary type="html"><![CDATA[As I was going through old Reply All episodes, I found one where a man breaks the internet by pulling out his npm package. And I found it on the same day my own site breaks (kinda) because of an npm package update. Talk about serendipity!]]></summary>
         <author>
             <name>Published articles</name>
         </author>
