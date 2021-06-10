@@ -148,24 +148,6 @@
           "publishedOn": "2021-05-12T20:08:43.000Z",
           "wordCount": 692,
           "title": "Org Agenda As New Tab Page"
-        },
-        {
-          "id": "https://github.com/airladon/FigureOne",
-          "author": null,
-          "description": "A JavaScript library for creating interactive/animated diagram/equation/plot",
-          "link": "https://github.com/airladon/FigureOne",
-          "publishedOn": "2021-05-11T22:09:04.000Z",
-          "wordCount": 1077,
-          "title": "Github - airladon/FigureOne"
-        },
-        {
-          "id": "https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA",
-          "author": null,
-          "description": "I have recently discovered this channel. Reminds me of 3Blue1Brown.",
-          "link": "https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA",
-          "publishedOn": "2021-05-11T18:25:46.000Z",
-          "wordCount": 14,
-          "title": "YouTube - ScienceClic English"
         }
       ]
     }
