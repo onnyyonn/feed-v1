@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-11T00:34:44.230Z</updated>
+    <updated>2021-06-11T12:14:52.273Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -163,16 +163,6 @@ Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <link href="https://darknetdiaries.com/episode/92/"/>
         <updated>2021-05-13T15:14:00.000Z</updated>
         <summary type="html"><![CDATA[🏴‍☠️ ✊]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Org Agenda As New Tab Page]]></title>
-        <id>https://blog.lambda.cx/posts/org-agenda-new-tab/</id>
-        <link href="https://blog.lambda.cx/posts/org-agenda-new-tab/"/>
-        <updated>2021-05-12T20:08:43.000Z</updated>
-        <summary type="html"><![CDATA[This is a neat trick and can be applied to all sorts of org files other than agenda.]]></summary>
         <author>
             <name>Published articles</name>
         </author>

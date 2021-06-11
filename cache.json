@@ -148,15 +148,6 @@
           "publishedOn": "2021-05-13T15:14:00.000Z",
           "wordCount": 532,
           "title": "Darknet Diaries - The Pirate Bay"
-        },
-        {
-          "id": "https://blog.lambda.cx/posts/org-agenda-new-tab/",
-          "author": null,
-          "description": "This is a neat trick and can be applied to all sorts of org files other than agenda.",
-          "link": "https://blog.lambda.cx/posts/org-agenda-new-tab/",
-          "publishedOn": "2021-05-12T20:08:43.000Z",
-          "wordCount": 692,
-          "title": "Org Agenda As New Tab Page"
         }
       ]
     }
