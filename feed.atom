@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-12T00:30:12.353Z</updated>
+    <updated>2021-06-12T12:14:41.330Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -143,26 +143,6 @@ Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <link href="https://www.stitcher.com/show/hidden-brain/episode/the-fake-bride-83848368"/>
         <updated>2021-05-15T23:46:46.000Z</updated>
         <summary type="html"><![CDATA[A surreal story of a fake wedding.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - Wikunia/Javis.jl]]></title>
-        <id>https://github.com/Wikunia/Javis.jl</id>
-        <link href="https://github.com/Wikunia/Javis.jl"/>
-        <updated>2021-05-13T15:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Julia package for animation]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darknet Diaries - The Pirate Bay]]></title>
-        <id>https://darknetdiaries.com/episode/92/</id>
-        <link href="https://darknetdiaries.com/episode/92/"/>
-        <updated>2021-05-13T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[🏴‍☠️ ✊]]></summary>
         <author>
             <name>Published articles</name>
         </author>
