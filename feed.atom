@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-14T00:32:48.680Z</updated>
+    <updated>2021-06-14T12:15:18.792Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -133,16 +133,6 @@ Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <link href="https://jsomers.net/i-should-have-loved-biology/"/>
         <updated>2021-05-16T02:19:13.000Z</updated>
         <summary type="html"><![CDATA[A reminder that there is no dull subject, only uninspired teaching.]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden Brain - The Fake Bride]]></title>
-        <id>https://www.stitcher.com/show/hidden-brain/episode/the-fake-bride-83848368</id>
-        <link href="https://www.stitcher.com/show/hidden-brain/episode/the-fake-bride-83848368"/>
-        <updated>2021-05-15T23:46:46.000Z</updated>
-        <summary type="html"><![CDATA[A surreal story of a fake wedding.]]></summary>
         <author>
             <name>Published articles</name>
         </author>
