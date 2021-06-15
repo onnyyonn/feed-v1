@@ -103,15 +103,6 @@
           "publishedOn": "2021-05-18T00:02:15.000Z",
           "wordCount": 2152,
           "title": "Increasing frequency of extremely severe cyclonic storms over the Arabian Sea"
-        },
-        {
-          "id": "https://www.srijn.net/running-multiple-emacs-daemons/",
-          "author": null,
-          "description": "Using this and Chemacs, it'll probably be possible to run multiple specialised emacs configs.",
-          "link": "https://www.srijn.net/running-multiple-emacs-daemons/",
-          "publishedOn": "2021-05-16T21:03:48.000Z",
-          "wordCount": 558,
-          "title": "Running multiple emacs daemons"
         }
       ]
     }
