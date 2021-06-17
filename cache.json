@@ -6,6 +6,24 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://zoom.earth/",
+          "author": null,
+          "description": "<p>Combines near real-time images from multiple geostationary satellites, updated every 10 minutes</p>",
+          "link": "https://zoom.earth/",
+          "publishedOn": "2021-06-16T15:17:57.000Z",
+          "wordCount": 321,
+          "title": "Zoom Earth"
+        },
+        {
+          "id": "https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/",
+          "author": null,
+          "description": "<p>Self-updating Github profile with Github Action</p>",
+          "link": "https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/",
+          "publishedOn": "2021-06-16T15:01:16.000Z",
+          "wordCount": 692,
+          "title": "Building a self-updating profile README for GitHub"
+        },
+        {
           "id": "https://github.com/miroslavpejic85/mirotalk",
           "author": null,
           "description": "<p>WebRTC-powered video chat and screen sharing</p>",

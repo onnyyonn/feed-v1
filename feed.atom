@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-16T12:15:49.232Z</updated>
+    <updated>2021-06-17T00:32:54.568Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zoom Earth]]></title>
+        <id>https://zoom.earth/</id>
+        <link href="https://zoom.earth/"/>
+        <updated>2021-06-16T15:17:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>Combines near real-time images from multiple geostationary satellites, updated every 10 minutes</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a self-updating profile README for GitHub]]></title>
+        <id>https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/</id>
+        <link href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/"/>
+        <updated>2021-06-16T15:01:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>Self-updating Github profile with Github Action</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Github - miroslavpejic85/mirotalk]]></title>
         <id>https://github.com/miroslavpejic85/mirotalk</id>
