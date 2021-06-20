@@ -103,15 +103,6 @@
           "publishedOn": "2021-05-25T15:14:16.000Z",
           "wordCount": 2573,
           "title": "Urbit :: the good, the bad and the insane"
-        },
-        {
-          "id": "https://twitter.com/ColinTheMathmo/status/1395669381024210944",
-          "author": null,
-          "description": "In the decimal system, a square of an integer may only end in 0, 1, 4, 5, 6, or 9, whereas twice a square may only end with 0,2,8. So if a²=2b², a must end with 0 and b must end with 5 or 0. This triggers an infinite descent that proves: no solution where a and b both are integers, which implies a/b must be irrational.",
-          "link": "https://twitter.com/ColinTheMathmo/status/1395669381024210944",
-          "publishedOn": "2021-05-21T16:00:44.000Z",
-          "wordCount": 196,
-          "title": "An \"out-of-the-box\" proof that √2 is irrational"
         }
       ]
     }
