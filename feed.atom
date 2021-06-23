@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-23T00:32:38.728Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T12:12:32.005Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
     <entry>
