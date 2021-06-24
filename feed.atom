@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-24T00:27:07.644Z</updated>
+    <updated>2021-06-24T12:16:47.738Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -134,16 +134,6 @@ Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <link href="https://github.com/tlienart/Franklin.jl"/>
         <updated>2021-05-26T06:12:12.000Z</updated>
         <summary type="html"><![CDATA[<p>A static site generator written in Julia</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urbit :: the good, the bad and the insane]]></title>
-        <id>https://wejn.org/2021/02/urbit-good-bad-insane/</id>
-        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
-        <updated>2021-05-25T15:14:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>A not-so-kind take on Urbit</p>]]></summary>
         <author>
             <name>Published articles</name>
         </author>
