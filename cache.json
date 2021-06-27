@@ -103,15 +103,6 @@
           "publishedOn": "2021-05-29T06:59:45.000Z",
           "wordCount": 838,
           "title": "JupyterLite – WASM-powered Jupyter running in the browser"
-        },
-        {
-          "id": "https://github.com/nocodb/nocodb",
-          "author": null,
-          "description": "<p>The selfhosted Airtable clone I was looking for.</p>",
-          "link": "https://github.com/nocodb/nocodb",
-          "publishedOn": "2021-05-28T23:44:12.000Z",
-          "wordCount": 1249,
-          "title": "GitHub - nocodb/nocodb"
         }
       ]
     }
