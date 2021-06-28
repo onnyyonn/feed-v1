@@ -94,15 +94,6 @@
           "publishedOn": "2021-06-01T02:21:53.000Z",
           "wordCount": 196,
           "title": "Twitter - @beesandbombs"
-        },
-        {
-          "id": "https://github.com/jtpio/jupyterlite",
-          "author": null,
-          "description": "<p>Article URL: https://github.com/jtpio/jupyterlite\nComments URL: https://news.ycombinator.com/item?i...</p>",
-          "link": "https://github.com/jtpio/jupyterlite",
-          "publishedOn": "2021-05-29T06:59:45.000Z",
-          "wordCount": 838,
-          "title": "JupyterLite – WASM-powered Jupyter running in the browser"
         }
       ]
     }

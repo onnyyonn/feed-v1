@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-06-27T12:15:31.056Z</updated>
+    <updated>2021-06-28T00:36:38.394Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -103,17 +103,6 @@ Comments URL: https://news.ycombinator.com/item?id=275...</p>]]></summary>
         <link href="https://twitter.com/beesandbombs"/>
         <updated>2021-06-01T02:21:53.000Z</updated>
         <summary type="html"><![CDATA[<p>Pretty math gifs</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JupyterLite – WASM-powered Jupyter running in the browser]]></title>
-        <id>https://github.com/jtpio/jupyterlite</id>
-        <link href="https://github.com/jtpio/jupyterlite"/>
-        <updated>2021-05-29T06:59:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>Article URL: https://github.com/jtpio/jupyterlite
-Comments URL: https://news.ycombinator.com/item?i...</p>]]></summary>
         <author>
             <name>Published articles</name>
         </author>
