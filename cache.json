@@ -6,6 +6,15 @@
       "siteUrl": "https://rss.0n1.one",
       "articles": [
         {
+          "id": "https://youtu.be/C3GKe7eXbPE",
+          "author": null,
+          "description": "<p>A unique DIY PC-cooling system</p>",
+          "link": "https://youtu.be/C3GKe7eXbPE",
+          "publishedOn": "2021-07-01T18:40:41.000Z",
+          "wordCount": 18,
+          "title": "Building the world's first 'breathing' PC"
+        },
+        {
           "id": "https://geonnave.github.io/primg/",
           "author": null,
           "description": "<p>Generate prime numbers whose binary representation looks like any image</p>",

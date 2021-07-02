@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-07-01T12:16:50.618Z</updated>
+    <updated>2021-07-02T00:35:36.973Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building the world's first 'breathing' PC]]></title>
+        <id>https://youtu.be/C3GKe7eXbPE</id>
+        <link href="https://youtu.be/C3GKe7eXbPE"/>
+        <updated>2021-07-01T18:40:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>A unique DIY PC-cooling system</p>]]></summary>
+        <author>
+            <name>Published articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Primg]]></title>
         <id>https://geonnave.github.io/primg/</id>
