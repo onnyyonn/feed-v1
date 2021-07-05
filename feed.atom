@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-07-04T12:15:15.955Z</updated>
+    <updated>2021-07-05T00:32:17.229Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -93,16 +93,6 @@ Comments URL: https://news.ycombinator.com/item?id=275...</p>]]></summary>
         <link href="https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you"/>
         <updated>2021-06-09T01:01:42.000Z</updated>
         <summary type="html"><![CDATA[<p>"And herein lies my biggest gripe with social media. There is no room for nuance, there is no room f...</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Costis94 - Bookcut]]></title>
-        <id>https://github.com/costis94/bookcut</id>
-        <link href="https://github.com/costis94/bookcut"/>
-        <updated>2021-06-05T05:07:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>A CLI tool for downloading ebooks. I haven't had much luck with Calibre's Libgen extensions. This ma...</p>]]></summary>
         <author>
             <name>Published articles</name>
         </author>

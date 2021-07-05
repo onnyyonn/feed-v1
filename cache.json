@@ -85,15 +85,6 @@
           "publishedOn": "2021-06-09T01:01:42.000Z",
           "wordCount": 1411,
           "title": "Don't let Social Media Think for You"
-        },
-        {
-          "id": "https://github.com/costis94/bookcut",
-          "author": null,
-          "description": "<p>A CLI tool for downloading ebooks. I haven't had much luck with Calibre's Libgen extensions. This ma...</p>",
-          "link": "https://github.com/costis94/bookcut",
-          "publishedOn": "2021-06-05T05:07:11.000Z",
-          "wordCount": 798,
-          "title": "Costis94 - Bookcut"
         }
       ]
     }
