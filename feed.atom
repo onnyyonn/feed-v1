@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-07-10T00:33:30.248Z</updated>
+    <updated>2021-07-10T12:15:03.962Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -73,16 +73,6 @@ Comments URL: https://news.ycombinator.com/item?id=275...</p>]]></summary>
         <link href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/"/>
         <updated>2021-06-16T15:01:16.000Z</updated>
         <summary type="html"><![CDATA[<p>Self-updating Github profile with Github Action</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github - miroslavpejic85/mirotalk]]></title>
-        <id>https://github.com/miroslavpejic85/mirotalk</id>
-        <link href="https://github.com/miroslavpejic85/mirotalk"/>
-        <updated>2021-06-10T14:54:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>WebRTC-powered video chat and screen sharing</p>]]></summary>
         <author>
             <name>Published articles</name>
         </author>
