@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-07-17T00:34:26.018Z</updated>
+    <updated>2021-07-17T12:15:27.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
@@ -42,17 +42,6 @@
         <link href="https://deepnote.com/"/>
         <updated>2021-06-20T18:05:49.000Z</updated>
         <summary type="html"><![CDATA[<p>One of the best cloud notebooks I have discovered</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biochemical Pathway Maps]]></title>
-        <id>http://biochemical-pathways.com</id>
-        <link href="http://biochemical-pathways.com"/>
-        <updated>2021-06-17T21:58:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>Article URL: http://biochemical-pathways.com
-Comments URL: https://news.ycombinator.com/item?id=275...</p>]]></summary>
         <author>
             <name>Published articles</name>
         </author>
