@@ -1,3 +1,5 @@
+> :warning:  **The feed is currently broken. Will be updated after osmos::feed v2 release.**
+
 # About
 
 This repository hosts the contents of an RSS feed where I share links that I find interesting.
