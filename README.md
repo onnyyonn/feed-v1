@@ -1,4 +1,4 @@
-> :warning:  **The feed is currently broken. Will be updated after osmos::feed v2 release.**
+> :warning:  **This is a deprecated version of feed. The current active version is at https://github.com/onnyyonn/feed**
 
 # About
 
